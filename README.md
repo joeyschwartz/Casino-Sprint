@@ -1,22 +1,2 @@
 # Casino-Sprint
-Casino sprint is an addicting slot-machine themed racing game!
-
-Plugins:
-
-dependencies:
-- react
-- react-dom
-- react-router-dom
-- node
-- express
-- mongoose
-
-dev:
-- babel loader @babel/preset-env @babel/preset-react @babel/core
-- webpack
-- webpack-dev-server
-- html-webpack-plugin
-- webpack-cli
-- css-loader
-- style-loader
-- nodemon
+Casino sprint is an addicting slot-machine themed racing game! Log in with Google, select your character, and let's start racing!
