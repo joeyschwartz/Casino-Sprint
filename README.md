@@ -1,5 +1,5 @@
-# Yoshi-Racer
-yoshi racer is sick
+# Casino-Sprint
+Casino sprint is an addicting slot-machine themed racing game!
 
 Plugins:
 
